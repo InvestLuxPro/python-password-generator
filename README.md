@@ -1,4 +1,7 @@
 # Python Password Generator
+## Program Screenshot
+
+![Program Screenshot](password-generator-screenshot.png)
 
 A Python program that generates secure random passwords based on user-selected criteria such as length, uppercase letters, lowercase letters, numbers, and special characters.
 
