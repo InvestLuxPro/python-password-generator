@@ -35,7 +35,6 @@ python-password-generator/
 ```bash
 python password_generator.py
 ```
-```markdown
 ## Learning Objectives
 This project demonstrates:
 - Python functions
