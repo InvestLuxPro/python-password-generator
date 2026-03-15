@@ -14,6 +14,13 @@ A Python program that generates secure random passwords based on user-selected c
 - Option to include special characters
 - Input validation for user responses
 
+## Project Structure
+```text
+python-password-generator/
+├── password_generator.py           # Main program
+├── README.md                       # Project documentation
+└── password-generator-screenshot.png   # Example output
+
 ## Technologies Used
 
 - Python
@@ -28,6 +35,14 @@ A Python program that generates secure random passwords based on user-selected c
 ```bash
 python password_generator.py
 ```
+```markdown
+## Learning Objectives
+This project demonstrates:
+- Python functions
+- User input validation
+- Conditional logic
+- String handling
+- Random password generation
 
 ## Example Use
 
