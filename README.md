@@ -20,7 +20,7 @@ python-password-generator/
 ├── password_generator.py           # Main program
 ├── README.md                       # Project documentation
 └── password-generator-screenshot.png   # Example output
-
+```
 ## Technologies Used
 
 - Python
